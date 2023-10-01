@@ -16,18 +16,29 @@ body {
 }
 
 h1{
-font-size: 8rem;
+    font-size: 2.5rem;
 }
 
 h2{
-    font-size: 3rem;
+    font-size: 2rem;
 }
+
+@media only screen and (min-width: 600px) {
+    h1{
+        font-size: 8rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+}
+
+
 
 
 .oam{
     background-image: url("src/img/oam-idle.png");
-    width: 30vw;
-    height: 30vw;
+    width: 40vw;
+    height: 40vw;
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: contain;
@@ -42,8 +53,8 @@ h2{
 
 .pop{
     background-image: url("src/img/oam-pop.png");
-    width: 30vw;
-    height: 30vw;
+    width: 40vw;
+    height: 40vw;
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: contain;
