@@ -1,5 +1,5 @@
 # 🤯 PopOam
-About this project:
+ℹ️ About this project:
 - 🏃🏻‍♂️ Speedrun mini project for surprising [ChaiyapatOam](https://github.com/ChaiyapatOam) (👻 ผีโอม), my best friend.
 - 💡 Inspired from 😼 [PopCat Game](https://popcat.click/)
 - 🌐 Just a typical static site
