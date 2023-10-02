@@ -8,4 +8,4 @@
 #  😐→😯 Demo 
 To access the demo, "softly" click on [this deployment page](https://chotanansubsoph.github.io/PopOam/)  (If you click it too hard, Evil Oam will be triggered) 
 
-![ohm](https://raw.githubusercontent.com/ChotanansubSoph/PopOam/main/pop-oam-demo.gif)
+![ohm](assets/animation/pop-oam-demo.gif)

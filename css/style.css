@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200&display=swap');
+
+body {
+    margin: 0 ;
+    padding: 0; 
+    background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    font-family: 'Prompt', sans-serif;
+    color: white;
+}
+
+h1{
+    font-size: 1rem;
+}
+
+h2{
+    font-size: 0.5rem;
+}
+
+@media only screen and (min-width: 1000px) {
+    h1{
+        font-size: 8rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+}
+
+
+
+
+.oam{
+    background-image: url("../assets/image/oam-idle.png");
+    width: 40vw;
+    height: 40vw;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 10rem;
+    
+}
+
+.oam:hover{
+    scale: 1.05;
+}
+
+
+.pop{
+    background-image: url("../assets/image/oam-pop.png");
+    width: 40vw;
+    height: 40vw;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* pointer-events:none; */
+}
