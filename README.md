@@ -1,6 +1,6 @@
 # 🤯 PopOam
 
-- 🏃🏻‍♂️ Speed run mini project for surprising [ChaiyapatOam](https://github.com/ChaiyapatOam) (👻😱 ผีโอม), my best friend.
+- 🏃🏻‍♂️ Speedrun mini project for surprising [ChaiyapatOam](https://github.com/ChaiyapatOam) (👻😱 ผีโอม), my best friend.
 - 💡 Inspired from 😼 [PopCat Game](https://popcat.click/)
 - 🌐 Just a typical static site
 - ❌ No technology, no framework, nothing  ✅ ⎯ only love from all of his friends 💪🏻😘
